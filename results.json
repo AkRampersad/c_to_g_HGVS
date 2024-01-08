@@ -1,0 +1,192 @@
+{
+  "NM_004006.2:c.123=": {
+    "start": "32849791",
+    "end": "32849791",
+    "ref": "G",
+    "alt": "G"
+  },
+  "NM_004006.2:c.93G>T": {
+    "start": "33020139",
+    "end": "33020139",
+    "ref": "C",
+    "alt": "A"
+  },
+  "NM_004006.2:c.93+1G>T": {
+    "start": "33020138",
+    "end": "33020138",
+    "ref": "C",
+    "alt": "A"
+  },
+  "NM_004006.2:c.94-1T>A": {
+    "start": "32849821",
+    "end": "32849821",
+    "ref": "C",
+    "alt": "T"
+  },
+  "NM_004006.2:c.93del": {
+    "start": "33020139",
+    "end": "33020139",
+    "ref": "C",
+    "alt": null
+  },
+  "NM_004006.2:c.93+1del": {
+    "start": "33020139",
+    "end": "33020139",
+    "ref": "C",
+    "alt": null
+  },
+  "NM_004006.2:c.94-1del": {
+    "start": "32849821",
+    "end": "32849821",
+    "ref": "C",
+    "alt": null
+  },
+  "NM_004006.2:c.92_93del": {
+    "start": "33020139",
+    "end": "33020140",
+    "ref": "CT",
+    "alt": null
+  },
+  "NM_004006.2:c.92_93+1del": {
+    "start": "33020138",
+    "end": "33020140",
+    "ref": "CCT",
+    "alt": null
+  },
+  "NM_004006.2:c.93+1_93+2del": {
+    "start": "33020137",
+    "end": "33020138",
+    "ref": "AC",
+    "alt": null
+  },
+  "NM_004006.2:c.94-2_94-1del": {
+    "start": "32849821",
+    "end": "32849822",
+    "ref": "CT",
+    "alt": null
+  },
+  "NM_004006.2:c.94-1_94del": {
+    "start": "32849820",
+    "end": "32849821",
+    "ref": "AC",
+    "alt": null
+  },
+  "NM_004006.2:c.92_93insT": {
+    "start": "33020139",
+    "end": "33020140",
+    "ref": "None",
+    "alt": "A"
+  },
+  "NM_004006.2:c.92_93ins90_93": "invalid format error NM_004006.2:c.92_93ins90_93: char 22: Syntax error",
+  "NM_004006.2:c.92_93ins[T;90_93]": "invalid format error NM_004006.2:c.92_93ins[T;90_93]: char 22: Syntax error",
+  "NM_004006.2:c.92_93ins[90_93;ATGC]": "invalid format error NM_004006.2:c.92_93ins[90_93;ATGC]: char 22: Syntax error",
+  "NM_004006.2:c.93_93+1insT": {
+    "start": "33020138",
+    "end": "33020139",
+    "ref": "None",
+    "alt": "A"
+  },
+  "NM_004006.2:c.93+1_93+2insT": {
+    "start": "33020137",
+    "end": "33020137",
+    "ref": "A"
+  },
+  "NM_004006.2:c.94-2_94-1insT": {
+    "start": "32849821",
+    "end": "32849822",
+    "ref": "None",
+    "alt": "A"
+  },
+  "NM_004006.2:c.94-1_94insT": {
+    "start": "32849820",
+    "end": "32849820",
+    "ref": "A"
+  },
+  "NM_004006.2:c.92_93ins90_93inv": "invalid format error NM_004006.2:c.92_93ins90_93inv: char 22: Syntax error",
+  "NM_004006.2:c.92_93ins[85_86;93+1_92+2;90_93inv;A]": "invalid format error NM_004006.2:c.92_93ins[85_86;93+1_92+2;90_93inv;A]: char 22: Syntax error",
+  "NM_004006.2:c.93dup": {
+    "start": "33020139",
+    "end": "33020139",
+    "ref": "C"
+  },
+  "NM_004006.2:c.93+1dup": {
+    "start": "33020139",
+    "end": "33020139",
+    "ref": "C"
+  },
+  "NM_004006.2:c.94-1dup": {
+    "start": "32849821",
+    "end": "32849821",
+    "ref": "C"
+  },
+  "NM_004006.2:c.93_93+1dup": {
+    "start": "33020138",
+    "end": "33020139",
+    "ref": "CC"
+  },
+  "NM_004006.2:c.94-1_94dup": {
+    "start": "32849820",
+    "end": "32849821",
+    "ref": "AC"
+  },
+  "NM_004006.2:c.92_93inv": {
+    "start": "33020139",
+    "end": "33020140",
+    "ref": "CT"
+  },
+  "NM_004006.2:c.93_93+1inv": {
+    "start": "33020138",
+    "end": "33020139",
+    "ref": "CC"
+  },
+  "NM_004006.2:c.93+1_93+2inv": {
+    "start": "33020137",
+    "end": "33020138",
+    "ref": "AC"
+  },
+  "NM_004006.2:c.94-2_94-1inv": {
+    "start": "32849821",
+    "end": "32849822",
+    "ref": "CT"
+  },
+  "NM_004006.2:c.94-1_94inv": {
+    "start": "32849820",
+    "end": "32849821",
+    "ref": "AC"
+  },
+  "NM_004006.2:c.92_93delinsAA": {
+    "start": "33020139",
+    "end": "33020139",
+    "ref": "C",
+    "alt": "T"
+  },
+  "NM_004006.2:c.93_93+1delinsAA": {
+    "start": "33020138",
+    "end": "33020139",
+    "ref": "CC",
+    "alt": "TT"
+  },
+  "NM_004006.2:c.93+1_93+2delinsAA": {
+    "start": "33020137",
+    "end": "33020138",
+    "ref": "AC",
+    "alt": "TT"
+  },
+  "NM_004006.2:c.94-2_94-1delinsAA": {
+    "start": "32849821",
+    "end": "32849821",
+    "ref": "C",
+    "alt": "T"
+  },
+  "NM_004006.2:c.94-1_94delinsAA": {
+    "start": "32849820",
+    "end": "32849821",
+    "ref": "AC",
+    "alt": "TT"
+  },
+  "NM_004006.2:c.92_93delins90_92": "invalid format error NM_004006.2:c.92_93delins90_92: char 26: expected EOF",
+  "NM_004006.2:c.92_93delinsA[3]": "invalid format error NM_004006.2:c.92_93delinsA[3]: char 27: expected EOF",
+  "NM_004006.2:c.93insA": "invalid format error insertion length must be 1",
+  "NM_004006.2:c.93+1insA": "invalid format error insertion length must be 1",
+  "NM_004006.2:c.94-1insA": "invalid format error insertion length must be 1"
+}

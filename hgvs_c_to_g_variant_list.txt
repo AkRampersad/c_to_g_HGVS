@@ -1,0 +1,52 @@
+# SNV substitution
+NM_004006.2:c.123=
+NM_004006.2:c.93G>T
+NM_004006.2:c.93+1G>T
+NM_004006.2:c.94-1T>A
+
+# SNV deletion
+NM_004006.2:c.93del
+NM_004006.2:c.93+1del
+NM_004006.2:c.94-1del
+# MN deletion
+NM_004006.2:c.92_93del
+NM_004006.2:c.92_93+1del
+NM_004006.2:c.93+1_93+2del
+NM_004006.2:c.94-2_94-1del
+NM_004006.2:c.94-1_94del
+# MN insertion
+NM_004006.2:c.92_93insT
+NM_004006.2:c.92_93ins90_93
+NM_004006.2:c.92_93ins[T;90_93]
+NM_004006.2:c.92_93ins[90_93;ATGC]
+NM_004006.2:c.93_93+1insT
+NM_004006.2:c.93+1_93+2insT
+NM_004006.2:c.94-2_94-1insT
+NM_004006.2:c.94-1_94insT
+NM_004006.2:c.92_93ins90_93inv
+NM_004006.2:c.92_93ins[85_86;93+1_92+2;90_93inv;A]
+# MN duplication
+NM_004006.2:c.93dup
+NM_004006.2:c.93+1dup
+NM_004006.2:c.94-1dup
+NM_004006.2:c.93_93+1dup
+NM_004006.2:c.94-1_94dup
+# MN inversion
+NM_004006.2:c.92_93inv
+NM_004006.2:c.93_93+1inv
+NM_004006.2:c.93+1_93+2inv
+NM_004006.2:c.94-2_94-1inv
+NM_004006.2:c.94-1_94inv
+# MN delins
+NM_004006.2:c.92_93delinsAA
+NM_004006.2:c.93_93+1delinsAA
+NM_004006.2:c.93+1_93+2delinsAA
+NM_004006.2:c.94-2_94-1delinsAA
+NM_004006.2:c.94-1_94delinsAA
+NM_004006.2:c.92_93delins90_92
+NM_004006.2:c.92_93delinsA[3]
+
+# SNV insertion
+NM_004006.2:c.93insA
+NM_004006.2:c.93+1insA
+NM_004006.2:c.94-1insA
