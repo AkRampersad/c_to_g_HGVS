@@ -47,6 +47,6 @@ NM_004006.2:c.92_93delins90_92
 NM_004006.2:c.92_93delinsA[3]
 
 # SNV insertion
-NM_004006.2:c.93insA
-NM_004006.2:c.93+1insA
-NM_004006.2:c.94-1insA
+NM_004006.2:c.93_94insA
+NM_004006.2:c.93+1_93+2insA
+NM_004006.2:c.94-2_94-1insA
